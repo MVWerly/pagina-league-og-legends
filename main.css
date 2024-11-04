@@ -1,0 +1,12 @@
+#lol-icon {
+    max-width: 8em;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    background-color: #fff;
+}
+
+.navbar-nav {
+    --bs-nav-link-color: #ffffff7e;
+    --bs-nav-link-hover-color: #fff;
+}
